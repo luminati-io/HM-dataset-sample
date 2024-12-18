@@ -2,7 +2,7 @@
 
 <h2>A sample dataset of 1001 H&M products</h2>
 
-![H&M products dataset header](https://github.com/luminati-io/H&M-dataset-sample/blob/main/H&M-dataset.png)
+![H&M products dataset header](https://github.com/luminati-io/H&M-dataset-sample/blob/main/HM-dataset.png)
 
 A H&M products dataset sample of over 1000 records. Dataset was extracted using the <b>Bright Data API</b>.
 
