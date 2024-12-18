@@ -1,12 +1,12 @@
-# HM-dataset-sample
+# H&M-dataset-sample
 
-<h2>A sample dataset of 1001 HM products</h2>
+<h2>A sample dataset of 1001 H&M products</h2>
 
-![HM products dataset header](https://github.com/luminati-io/HM-dataset-sample/blob/main/HM-dataset.png)
+![H&M products dataset header](https://github.com/luminati-io/H&M-dataset-sample/blob/main/H&M-dataset.png)
 
-A HM products dataset sample of over 1000 records. Dataset was extracted using the <b>Bright Data API</b>.
+A H&M products dataset sample of over 1000 records. Dataset was extracted using the <b>Bright Data API</b>.
 
-<h2>Some of the data points that are included in the HM products dataset:</h2>
+<h2>Some of the data points that are included in the H&M products dataset:</h2>
 
 * ```category_tree```: The hierarchy of categories to which the product belongs  
 * ```color```: The color of the product  
@@ -35,7 +35,7 @@ A HM products dataset sample of over 1000 records. Dataset was extracted using t
 
 And a lot more.
 
-This is a sample subset which is derived from the "HM products"
+This is a sample subset which is derived from the "H&M products"
 dataset which includes more than <b>4.1M records</b>.
 
 Available dataset file formats: <b>JSON, NDJSON, JSON Lines, CSV, or Parquet. Optionally, files can be compressed to .gz</b>.
@@ -44,11 +44,11 @@ Dataset delivery type options: <b>Email, API download, Webhook, Amazon S3, Googl
 
 Update frequency: <b>Once, Daily, Weekly, Monthly, Quarterly, or Custom basis</b>.
 
-Data enrichment available as an addition to the data points extracted: <b>Based on request.</b>
+Data enricH&Ment available as an addition to the data points extracted: <b>Based on request.</b>
 
-<b>[Get the full HM products dataset](https://brightdata.com/products/datasets/fashion/hm)</b>.
+<b>[Get the full H&M products dataset](https://brightdata.com/products/datasets/fashion/H&M)</b>.
 
-<h2>What are the HM products datasets use cases?</h2>
+<h2>What are the H&M products datasets use cases?</h2>
 
 <h3>1. Pricing Optimization</h3>
 Develop a pricing strategy and create dynamic pricing models by analyzing comparable H&M products and categories against competitors.
