@@ -2,7 +2,7 @@
 
 <h2>A sample dataset of 1001 HM products</h2>
 
-![HM products dataset header](https://github.com/luminati-io/Best-Buy-dataset-sample/blob/main/Best-Buy-dataset.png)
+![HM products dataset header](https://github.com/luminati-io/HM-dataset-sample/blob/main/HM-dataset.png)
 
 A HM products dataset sample of over 1000 records. Dataset was extracted using the <b>Bright Data API</b>.
 
